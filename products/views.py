@@ -8,7 +8,6 @@ def all_products(request):
     """
 
     products = Product.objects.all()
-    print("prouducts : ", products)
     context = {
         'products': products,
     }
