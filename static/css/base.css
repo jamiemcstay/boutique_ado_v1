@@ -57,7 +57,7 @@ body {
 }
 
 .bg-black {
-    background: black !important;
+    background: #000 !important;
 }
 
 /* -------------------------------- Media Queries */
